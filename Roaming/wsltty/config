@@ -1,0 +1,28 @@
+# To use common configuration in %APPDATA%\mintty, simply remove this file
+FontHeight=19
+Font=UD デジタル 教科書体 N-R
+Transparency=high
+CursorType=line
+BellTaskbar=no
+ThemeFile=
+
+BackgroundColour=13,25,38
+ForegroundColour=217,230,242
+CursorColour=217,230,242
+Black=80,80,80
+BoldBlack=128,128,128
+Red=193,88,140
+BoldRed=213,141,177
+Green=140,193,88
+BoldGreen=177,213,141
+Yellow=193,140,88
+BoldYellow=213,177,141
+Blue=88,140,193
+BoldBlue=141,177,213
+Magenta=140,88,193
+BoldMagenta=177,141,213
+Cyan=88,193,140
+BoldCyan=141,213,177
+White=146,146,146
+BoldWhite=210,210,210
+
